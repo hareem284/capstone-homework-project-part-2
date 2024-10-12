@@ -10,3 +10,4 @@ INSERT INTO COMPANY(ID,NAME,JOB)VALUES
 
 SELECT * FROM COMPANY;
 SELECT FROM COMPANY WHERE NAME LIKE "A%" AND "OR%";
+/*sorry forgot to put things about their countries*/
